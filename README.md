@@ -1,6 +1,9 @@
 # DynSLAM: Simultaneous Localization and Mapping in Dynamic Environments
 
-This is a dense SLAM system written in C++. It builds on [InfiniTAM](https://github.com/victorprad/InfiniTAM), adding support
+    语义分割   MNC
+    光流 DispNet
+
+This is a dense SLAM system written in C++. It builds on [三维重建 InfiniTAM](https://github.com/victorprad/InfiniTAM), adding support
 for stereo input and separate dynamic object (e.g., car) reconstruction.
 
 Currently under development as my Master's Thesis, as part of the [Computer
